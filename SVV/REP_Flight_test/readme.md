@@ -9,5 +9,4 @@ Regarding the files, the main.py is essentially state_space.py, which imports va
 The inputs are Static Stability values (*SS1.csv*, and *SS2.csv*). Conversely, *SS2.csv* is created using *SS2_long.py*. 
 Finally all parameters are centralized in *Cit_par24.py*, where you can select the simulation you want to run. *utilities.py* is used to centralize various functions needed throughout the different files, and in other files not included here.
 
-Say I worked in all of the files, along with two other students. I understand everything. It was part of a larger group, who worked on producing SS1, and the verification of the code. Validation is the next step to follow. 
 Project took place: February 2024-March 2024
