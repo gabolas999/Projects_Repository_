@@ -1,0 +1,54 @@
+# This is the place to change all parameters for my code
+
+
+#--------------------------------------------------------------
+[plotting]
+#--------------------------------------------------------------
+labels = false           # use lower case booleans
+color_prts = [0,0,0]     # decimal use for colours  
+color_pts = [0.7, 0.7, 0.7]  # decimal use for colours 
+
+marker = 'o'
+# Marker choices --------------------------
+#    '.',  # Point marker
+#    ',',  # Pixel marker
+#    'o',  # Circle marker
+#    'v',  # Triangle down marker
+#    '^',  # Triangle up marker
+#    '<',  # Triangle left marker
+#    '>',  # Triangle right marker
+#    '1',  # Tri down marker
+#    '2',  # Tri up marker
+#    '3',  # Tri left marker
+#    '4',  # Tri right marker
+#    's',  # Square marker
+#    'p',  # Pentagon marker
+#    '*',  # Star marker
+#    'h',  # Hexagon1 marker
+#    'H',  # Hexagon2 marker
+#    '+',  # Plus marker
+#    'x',  # X marker
+#    'D',  # Diamond marker
+#    'd',  # Thin diamond marker
+#    '|',  # Vline marker
+#    '_'   # Hline marker
+# ----------------------------------------
+
+font = 'cursive'
+# Font choices ----------------------------------------------------------
+#    'serif',           # Fonts with small lines at the ends of characters
+#    'sans-serif',      # Clean, modern fonts without serifs
+#    'cursive',         # Fonts that emulate handwriting
+#    'fantasy',         # Decorative fonts
+#    'monospace',       # Fonts where each character has the same fixed width
+#    'Arial',           # A specific sans-serif font name
+#    'Times New Roman'  # A specific serif font name
+# -----------------------------------------------------------------------
+
+figsize = [13,8]
+saver = false
+savetitle = "Varying weights19.png"
+
+# Saved image definition 
+dpi = 500               # 200 - 800
+progressive_plot = true
